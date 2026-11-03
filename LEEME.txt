@@ -1,0 +1,19 @@
+NODO — Catálogo de componentes IoT
+
+1. Extrae el ZIP completo.
+2. Abre index.html con tu navegador. No requiere instalación ni servidor.
+3. Para editarlo en Visual Studio Code, abre la carpeta extraída.
+
+Archivos:
+index.html: estructura y secciones.
+styles.css: colores, tipografía, diseño y adaptación a móviles.
+app.js: datos del catálogo, ilustraciones SVG, filtros, buscador y fichas.
+assets/bootstrap.min.css: Bootstrap 5.3.3 incluido localmente (conserva su licencia).
+
+Bootstrap es opcional, pero en este proyecto organiza la cuadrícula de tarjetas.
+No se necesita Bootstrap JS: las interacciones usan JavaScript nativo.
+Las ilustraciones son esquemáticas; puedes sustituirlas por fotografías propias.
+Modifica la lista components de app.js para agregar, eliminar o corregir componentes.
+El nombre Nodo es provisional.
+
+Actualización: explore.js incorpora el comparador de hasta 3 componentes, ejemplos interactivos y selector de tareas. Se añadieron glosario, preguntas frecuentes y recursos oficiales.
